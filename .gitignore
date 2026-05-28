@@ -1,1 +1,11 @@
 .venv/
+.env
+.cache
+.cache/
+.spotify/
+data/
+!data/playlist_config.example.json
+__pycache__/
+*.pyc
+.pytest_cache/
+
